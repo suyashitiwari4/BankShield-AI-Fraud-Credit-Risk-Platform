@@ -1,0 +1,18 @@
+# Data Manipulation & Numerical Computing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning & AI
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+shap>=0.41.0
+
+# Model Persistence
+joblib>=1.2.0
+
+# Web Application & Visualization
+streamlit>=1.25.0
+matplotlib>=3.7.0
+
+# Built-in utilities used (included by standard Python, but noted for completeness)
+# sqlite3, json, pathlib
