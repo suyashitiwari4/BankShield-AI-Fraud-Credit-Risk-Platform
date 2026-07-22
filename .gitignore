@@ -1,0 +1,18 @@
+# Python environment & cache
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Large Datasets & Databases
+*.csv
+*.db
+*.sqlite
+
+# Heavy Trained Model Binaries
+*.pkl
+*.joblib
+
+# OS generated files
+.DS_Store
+Thumbs.db
